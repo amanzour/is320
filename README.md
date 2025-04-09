@@ -1,3 +1,2 @@
 # is320
-IS320 class
-trying a test
+This is a description about this repository. IS 320 is a System Analysis and Design class
