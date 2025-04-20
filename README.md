@@ -1,5 +1,6 @@
 ## IS320
 
+<<<<<<< HEAD
 IS 320 is a System Analysis and Design class, and this repository is edited by Group 3: Molly, Will, Ray, & Justin.
 
 <<<<<<< HEAD
@@ -12,3 +13,8 @@ edited by Group 2 :P
 
 Any unauthorized personel will be personally visited by Scrumply, who will NOT be happy.
 >>>>>>> will-branch
+=======
+This says read me but most people really wont
+
+edited by Group 3 
+>>>>>>> ray-branch

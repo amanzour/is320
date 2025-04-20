@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Created by Molly - Group 3
 def suggest_network_update(building_name):
     """
@@ -26,3 +27,15 @@ print("Prayer won't work, for he is the one you should be praying to.")
 print("None of your transgressions will be forgiven.")
 print("The pain will feel like eternity.")
 >>>>>>> will-branch
+=======
+print("HELLO! HAVE A GOOD DAY!")
+print("""
+   **********
+ *            *
+*   O      O   *
+*      ^       *
+*   \_____/    *
+ *            *
+   **********
+""")
+>>>>>>> ray-branch
