@@ -1,7 +1,5 @@
 # IS320===========**_*_*___*__*_**__*_*
 
-more lines 
+This says read me but most people really wont
 
-
-This is a description about this repository. IS 320 is a System Analysis and Design class
-edited by Group 2 :P
+edited by Group 3 
