@@ -1,4 +1,4 @@
-Print("HELLO! HAVE A GOOD DAY!")
+print("HELLO! HAVE A GOOD DAY!")
 print("""
    **********
  *            *
