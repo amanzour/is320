@@ -2,9 +2,7 @@ from random import random
 import turtle as tri
 import random as rand
 
-
-    
-    
+# Got any grapes? - Billy K
 
 #-----game configuration----
 
