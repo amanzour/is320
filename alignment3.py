@@ -34,3 +34,4 @@ tri.onclick(tri_clicked)
 
 wn = tri.Screen()
 wn.mainloop()
+#-----does this work-----
