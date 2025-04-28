@@ -1,4 +1,5 @@
 #THIS PROGRAM SOLVES THE 3-WAY SEQUENCE ALIGNMENT PROBLEM
+#Team 7 has edited this file
 import math
 import numpy as np
 import pandas as pd
