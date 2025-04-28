@@ -2,9 +2,7 @@ from random import random
 import turtle as tri
 import random as rand
 
-
-    
-    
+# Got any grapes? - Billy K
 
 #-----game configuration----
 
@@ -53,3 +51,4 @@ draw_triangle("triangle",-50,50,400)
 
 wn = tri.Screen()
 wn.mainloop()
+#-----does this work-----
